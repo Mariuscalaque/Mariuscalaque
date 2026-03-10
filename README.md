@@ -226,7 +226,7 @@ I am passionate about **quantitative research**, **machine learning** and **syst
 
 - 📖 Quantitative finance & applied research
 - ⛷️ Skiing (18 years of practice)
-- 🏀 Basketball (Regional Competition)
+- 🏀 Basketball
 - 🏊 Open water swimming
 - 🏃 Running
 - 🚴 Cycling
