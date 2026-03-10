@@ -1,7 +1,7 @@
-<h1 align="center">Bonjour, je suis Marius Calaque 👋</h1>
+<h1 align="center">Hello, I'm Marius Calaque 👋</h1>
 <p align="center">
-  <b>Étudiant en M2 Ingénierie Économique et Financière à l'Université Paris Dauphine - PSL</b><br/>
-  <i>Alternant Analyste Quantitatif @ AXA</i>
+  <b>M2 Student in Economic and Financial Engineering at Paris Dauphine University - PSL</b><br/>
+  <i>Quantitative Analyst Apprentice @ AXA</i>
 </p>
 
 <p align="center">
@@ -14,34 +14,34 @@
   <a href="tel:+33768973734">
     <img src="https://img.shields.io/badge/Phone-%2B33%207%2068%2097%2037%2034-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/🚀%20Open%20to-Stage%20%2F%20Opportunités-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🚀%20Open%20to-Internship%20%2F%20Opportunities-brightgreen?style=for-the-badge"/>
 </p>
 
-## 🧠 À propos de moi
+## 🧠 About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Je suis passionné par la **recherche quantitative**, le **machine learning** et le **trading systématique / algorithmique**.  
+I am passionate about **quantitative research**, **machine learning** and **systematic / algorithmic trading**.  
 <br/>
 
-- 📚 **Langages :** `Python` · `C#` · `C++` · `R` · `SQL` · `Matlab`
-- 📦 **Librairies :** `pandas` · `numpy` · `scipy` · `scikit-learn` · `statsmodels` · `blpapi`
-- 🚀 **Focus actuel :** pricing de dérivés, backtesting & économétrie
-- 💼 **Opportunités :** Trading Systématique · Recherche Quantitative · Quantitative Finance
-- 🌍 **Open to relocation :** France (Paris) · UK (London) · Netherlands (The Hague / Amsterdam) · Switzerland (Zurich / Geneva) · UAE (Dubai / Abou Dhabi)
+- 📚 **Languages:** `Python` · `C#` · `C++` · `R` · `SQL` · `Matlab`
+- 📦 **Libraries:** `pandas` · `numpy` · `scipy` · `scikit-learn` · `statsmodels` · `blpapi`
+- 🚀 **Current focus:** derivatives pricing, backtesting & econometrics
+- 💼 **Opportunities:** Systematic Trading · Quantitative Research · Quantitative Finance
+- 🌍 **Open to relocation:** France (Paris) · UK (London) · Netherlands (The Hague / Amsterdam) · Switzerland (Zurich / Geneva) · UAE (Dubai / Abu Dhabi)
 
 <br clear="right"/>
 
 ---
 
-## 🎓 Formation actuelle
+## 🎓 Current Education
 
 <table align="center">
   <thead>
     <tr>
-      <th>🏛️ École</th>
-      <th>📜 Diplôme</th>
-      <th>📅 Période</th>
+      <th>🏛️ School</th>
+      <th>📜 Degree</th>
+      <th>📅 Period</th>
     </tr>
   </thead>
   <tbody>
@@ -49,7 +49,7 @@ Je suis passionné par la **recherche quantitative**, le **machine learning** et
       <td>
         <a href="https://dauphine.psl.eu/"><img src="https://img.shields.io/badge/Paris%20Dauphine-PSL-003399?style=for-the-badge&logo=graduation-cap&logoColor=white" /></a>
       </td>
-      <td><a href="https://dauphine.psl.eu/formations/masters/economie-finance/m2-ingenierie-economique-et-financiere">Master Ingénierie Économique et Financière (272) — Parcours Quantitatif</a></td>
+      <td><a href="https://dauphine.psl.eu/formations/masters/economie-finance/m2-ingenierie-economique-et-financiere">Master in Economic and Financial Engineering (272) — Quantitative Track</a></td>
       <td>
         <img src="https://img.shields.io/badge/2024-2026-blue?style=flat-square"/>
       </td>
@@ -59,10 +59,10 @@ Je suis passionné par la **recherche quantitative**, le **machine learning** et
 
 ---
 
-## 🛠️ Compétences & Outils
+## 🛠️ Skills & Tools
 
 <details open>
-<summary><b>💻 Langages de programmation</b></summary>
+<summary><b>💻 Programming Languages</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -75,7 +75,7 @@ Je suis passionné par la **recherche quantitative**, le **machine learning** et
 </details>
 
 <details open>
-<summary><b>📦 Librairies Python</b></summary>
+<summary><b>📦 Python Libraries</b></summary>
 <br/>
 
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -88,22 +88,22 @@ Je suis passionné par la **recherche quantitative**, le **machine learning** et
 </details>
 
 <details open>
-<summary><b>🔬 Domaines d'expertise</b></summary>
+<summary><b>🔬 Areas of Expertise</b></summary>
 <br/>
 
-| Domaine | Technologies |
-|---------|-------------|
-| 📊 Pricing de dérivés | Arbres trinomiaux · Monte / Semi Monte Carlo · Black-Scholes · Heston |
-| 📈 Backtesting systématique | Long/Short · Mean-Reversion · Pair Trading |
-| 🧮 Économétrie & séries temporelles | ARIMA · GARCH · VAR · VECM · Fama-MacBeth |
+| Area | Technologies |
+|------|-------------|
+| 📊 Derivatives Pricing | Trinomial Trees · Monte / Semi Monte Carlo · Black-Scholes · Heston |
+| 📈 Systematic Backtesting | Long/Short · Mean-Reversion · Pair Trading |
+| 🧮 Econometrics & Time Series | ARIMA · GARCH · VAR · VECM · Fama-MacBeth |
 | 🤖 Machine Learning & Deep Learning | LSTM · Random Survival Forest · Gradient Boosting · Stacking |
-| 📡 Données financières | Bloomberg API · Données haute fréquence |
+| 📡 Financial Data | Bloomberg API · High-Frequency Data |
 
 </details>
 
 ---
 
-## 📂 Projets
+## 📂 Projects
 
 <table>
   <tr>
@@ -111,25 +111,25 @@ Je suis passionné par la **recherche quantitative**, le **machine learning** et
       <h3 align="center">📡 Bloomberg API Project</h3>
       <p align="center">
         <a href="https://github.com/Mariuscalaque/Bloomberg-API-Project">
-          <img src="https://img.shields.io/badge/Voir%20le%20projet-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       </p>
-      <p>Pipeline de backtesting Long/Short sur l'univers S&P 500 (773 tickers). Génération de signaux alpha, portefeuille market-neutral, suppression du biais de survie via masque PIT.</p>
+      <p>Long/Short backtesting pipeline on the S&P 500 universe (773 tickers). Alpha signal generation, market-neutral portfolio, survivorship bias removal via PIT mask.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📐 Pair Trading — State-Space Models</h3>
       <p align="center">
         <a href="https://github.com/Mariuscalaque/Mariuscalaque">
-          <img src="https://img.shields.io/badge/Voir%20le%20projet-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       </p>
-      <p>Modélisation des spreads par filtre de Kalman et de Kim. Détection de signaux mean-reversion et calibrage dynamique des seuils d'entrée/sortie (Zhang, 2021).</p>
+      <p>Spread modelling using Kalman and Kim filters. Mean-reversion signal detection and dynamic calibration of entry/exit thresholds (Zhang, 2021).</p>
     </td>
   </tr>
   <tr>
@@ -137,27 +137,27 @@ Je suis passionné par la **recherche quantitative**, le **machine learning** et
       <h3 align="center">⚙️ American & European Options Pricer</h3>
       <p align="center">
         <a href="https://github.com/Mariuscalaque/American-European-Options-Pricer">
-          <img src="https://img.shields.io/badge/Voir%20le%20projet-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/VBA%2FExcel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
       </p>
-      <p>Moteur de pricing par arbre trinomial pour options européennes et américaines. Calcul des Greeks et validation par convergence vers Black-Scholes.</p>
+      <p>Trinomial tree pricing engine for European and American options. Greeks computation and validation via convergence to Black-Scholes.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">💼 QuantFolio</h3>
       <p align="center">
         <a href="https://github.com/Mariuscalaque/Quantfolio">
-          <img src="https://img.shields.io/badge/Voir%20le%20projet-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
         <img src="https://img.shields.io/badge/WPF-.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
       </p>
-      <p>Application graphique WPF de gestion de portefeuille multi-actifs. Optimisation Markowitz, backtesting multi-stratégies, reporting automatisé.</p>
+      <p>WPF graphical application for multi-asset portfolio management. Markowitz optimization, multi-strategy backtesting, automated reporting.</p>
     </td>
   </tr>
   <tr>
@@ -165,40 +165,40 @@ Je suis passionné par la **recherche quantitative**, le **machine learning** et
       <h3 align="center">📉 Economic Uncertainty & Stock Returns</h3>
       <p align="center">
         <a href="https://github.com/Mariuscalaque/Economic-Uncertainty-Priced-in-Stock-Returns">
-          <img src="https://img.shields.io/badge/Voir%20le%20projet-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       </p>
-      <p>Reproduction de Bali et al. (2017) : bêta d'incertitude, portefeuilles par déciles, CAPM / q-factors HXZ / 5 facteurs JLN, Fama-MacBeth avec correction Newey-West.</p>
+      <p>Replication of Bali et al. (2017): uncertainty beta, decile portfolios, CAPM / HXZ q-factors / JLN 5 factors, Fama-MacBeth with Newey-West correction.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📊 Or & Taux US 10Y — Économétrie</h3>
+      <h3 align="center">📊 Gold & US 10Y Rates — Econometrics</h3>
       <p align="center">
         <a href="https://github.com/Mariuscalaque/Projet-Econometrie">
-          <img src="https://img.shields.io/badge/Voir%20le%20projet-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
       </p>
-      <p>Étude économétrique (1990–2024) : ADF/KPSS, AR, GARCH, VAR, Granger, VECM et cointégration de Johansen.</p>
+      <p>Econometric study (1990–2024): ADF/KPSS, AR, GARCH, VAR, Granger, VECM and Johansen cointegration.</p>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <h3 align="center">🧬 Challenge Data QRT 2025</h3>
+      <h3 align="center">🧬 QRT Data Challenge 2025</h3>
       <p align="center">
         <a href="https://github.com/Mariuscalaque/Challenge-Data-QRT-2025">
-          <img src="https://img.shields.io/badge/Voir%20le%20projet-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
       </p>
-      <p>Prédiction de survie en leucémie : stacking de modèles (Cox PH, Random Survival Forest, Gradient Boosting), optimisation bayésienne, évaluation par score de Brier intégré.</p>
+      <p>Leukemia survival prediction: model stacking (Cox PH, Random Survival Forest, Gradient Boosting), Bayesian optimization, evaluation via integrated Brier score.</p>
     </td>
   </tr>
 </table>
@@ -222,14 +222,14 @@ Je suis passionné par la **recherche quantitative**, le **machine learning** et
 
 ---
 
-## 🌍 Centres d'intérêt
+## 🌍 Interests
 
-- 📖 Finance quantitative & recherche appliquée
-- ⛷️ Ski (18 ans de pratique)
-- 🏀 Basketball (Compétition Régionale)
-- 🏊 Nage en eau libre
-- 🏃 Course à pied
-- 🚴 Cyclisme
+- 📖 Quantitative finance & applied research
+- ⛷️ Skiing (18 years of practice)
+- 🏀 Basketball (Regional Competition)
+- 🏊 Open water swimming
+- 🏃 Running
+- 🚴 Cycling
 
 ---
 
@@ -239,5 +239,5 @@ Je suis passionné par la **recherche quantitative**, le **machine learning** et
 </p>
 
 <p align="center">
-  <i>Merci de visiter mon profil ! N'hésite pas à me contacter pour discuter de projets, de stage ou de collaboration. 🚀</i>
+  <i>Thanks for visiting my profile! Feel free to reach out to discuss projects, internships or collaborations. 🚀</i>
 </p>
