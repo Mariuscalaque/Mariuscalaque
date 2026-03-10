@@ -1,4 +1,3 @@
-<h1 align="center">Salut, je suis Marius Calaque 👋</h1>
 
 <p align="center">
   <b>Étudiant en M2 Ingénierie Économique et Financière à l’Université Paris Dauphine - PSL</b><br/>
@@ -96,10 +95,8 @@ Participation au challenge de données QRT 2025 : modélisation prédictive sur 
 
 ## 🌍 Centres d'intérêt
 
-- 📖 Finance quantitative & recherche en marchés financiers
-- 🧩 Challenges algorithmiques et mathématiques
-- ⚽ Sport & nouvelles technologies
-- 💡 Cryptomonnaies & marchés alternatifs
+- 📖 Finance quantitative & recheche appliquée
+- ⚽ Sport (Basketball, F1, Baseball, Football)
 
 ---
 
