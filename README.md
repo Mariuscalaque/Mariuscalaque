@@ -47,8 +47,7 @@ Je suis passionné par la **recherche quantitative**, le **machine learning** et
   <tbody>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/Paris%20Dauphine-PSL-003399?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-      </td>
+       <a href="https://dauphine.psl.eu/formations/masters/economie-finance/m2-ingenierie-economique-et-financiere"><img src="https://img.shields.io/badge/Paris%20Dauphine-PSL-003399?style=for-the-badge&logo=graduation-cap&logoColor=white" /></a>
       <td>Master Ingénierie Économique et Financière (272) — Parcours Quantitatif</td>
       <td>
         <img src="https://img.shields.io/badge/2024-2026-blue?style=flat-square"/>
