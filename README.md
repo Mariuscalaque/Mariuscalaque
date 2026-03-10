@@ -16,7 +16,6 @@
   </a>
   <img src="https://img.shields.io/badge/🚀%20Open%20to-Stage%20%2F%20Opportunités-brightgreen?style=for-the-badge"/>
 </p>
----
 
 ## 🧠 À propos de moi
 
