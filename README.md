@@ -1,4 +1,4 @@
-
+<h1 align="center">Bonjour, je suis Marius Calaque 👋</h1>
 <p align="center">
   <b>Étudiant en M2 Ingénierie Économique et Financière à l’Université Paris Dauphine - PSL</b><br/>
   <i>EPF Écolge d'Ingénieurs — Informatique & ML</i>
@@ -21,7 +21,7 @@
 Je suis passionné par la **finance quantitative**, le **machine learning** et les **marchés financiers**.  
 J'aime combiner mathématiques, modélisation stochastique et programmation pour concevoir des stratégies quantitatives robustes.
 
-- 📚 Compétences : `Python` · `C#` · `R` · `SQL` · `Machine Learning` · `Modélisation financière`
+- 📚 Compétences : `Python` · `C#` · `C++` ·`R` · `SQL` · `Machine Learning` · `NLP`
 - 🚀 Je travaille sur des projets de **pricing de dérivés**, **backtesting** et **analyse économétrique**
 - 💼 Ouvert aux opportunités en **Quantitative Finance**, **Trading Systématique** ou **Data Science**
 
