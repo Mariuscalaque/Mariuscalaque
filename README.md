@@ -34,7 +34,7 @@ Je suis passionné par la **recherche quantitative**, le **machine learning** et
 
 ---
 
-## 🎓 Formation
+## 🎓 Formation actuelle
 
 <table align="center">
   <thead>
