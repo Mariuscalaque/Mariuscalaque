@@ -27,8 +27,8 @@ Je suis passionné par la **recherche quantitative**, le **machine learning** et
 - 📚 **Langages :** `Python` · `C#` · `C++` · `R` · `SQL` · `Matlab`
 - 📦 **Librairies :** `pandas` · `numpy` · `scipy` · `scikit-learn` · `statsmodels` · `blpapi`
 - 🚀 **Focus actuel :** pricing de dérivés, backtesting & économétrie
-- 💼 **Opportunités :** Quantitative Finance · Trading Systématique · Data Science
-- 🌍 **Localisation :** Paris, France
+- 💼 **Opportunités :** Trading Systématique · Recherche Quantitative · Quantitative Finance
+- 🌍 **Open to relocation :** 🇫🇷 France · 🇬🇧 UK · 🇳🇱 Pays-Bas · 🇨🇭 Suisse · 🇦🇪 Émirats Arabes Unis
 
 <br clear="right"/>
 
