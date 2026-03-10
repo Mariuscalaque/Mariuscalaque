@@ -1,11 +1,8 @@
-<!-- Animated Banner -->
+<h1 align="center">Bonjour, je suis Marius Calaque 👋</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Marius%20Calaque&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Quant%20Finance%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=55&descAlign=50"/>
+  <b>Étudiant en M2 Ingénierie Économique et Financière à l'Université Paris Dauphine - PSL</b><br/>
+  <i>Alternant Analyste Quantitatif @ AXA</i>
 </p>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=M2+Ing%C3%A9nierie+%C3%89conomique+%26+Financi%C3%A8re+%E2%80%94+Paris+Dauphine+PSL;Alternant+Analyste+Quantitatif+%40+AXA;Passionn%C3%A9+de+Finance+Quantitative+%26+ML" alt="Typing SVG" />
-</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marius-calaque-b53942267/">
@@ -241,14 +238,12 @@ J'aime combiner mathématiques, modélisation stochastique et programmation pour
 
 ## 🌍 Centres d'intérêt
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📖%20Finance%20Quantitative-%26%20Recherche%20Appliquée-0f3460?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⛷️%20Ski-18%20ans%20de%20pratique-1E90FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🏀%20Basketball-Compétition%20Régionale-FF6B35?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🏊%20Nage%20en%20Eau%20Libre-0096FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🏃%20Course%20à%20Pied-FF4500?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🚴%20Cyclisme-228B22?style=for-the-badge"/>
-</p>
+- 📖 Finance quantitative & recherche appliquée
+- ⛷️ Ski (18 ans de pratique)
+- 🏀 Basketball (Compétition Régionale)
+- 🏊 Nage en eau libre
+- 🏃 Course à pied
+- 🚴 Cyclisme
 
 ---
 
