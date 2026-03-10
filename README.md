@@ -1,12 +1,12 @@
 <h1 align="center">Salut, je suis Marius Calaque 👋</h1>
 
 <p align="center">
-  <b>Étudiant Ingénieur | Finance Quantitative & Machine Learning</b><br/>
-  <i>EPF École d'Ingénieurs — Informatique & ML</i>
+  <b>Étudiant en M2 Ingénierie Économique et Financière à l’Université Paris Dauphine - PSL</b><br/>
+  <i>EPF Écolge d'Ingénieurs — Informatique & ML</i>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TON-LINKEDIN">
+  <a href="https://www.linkedin.com/in/marius-calaque-b53942267/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:TON-EMAIL">
