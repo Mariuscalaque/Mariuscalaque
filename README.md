@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/marius-calaque-b53942267/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:TON-EMAIL">
+  <a href="mailto:calaquemarius@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Open%20to-Stage%20%2F%20Opportunités-brightgreen?style=for-the-badge"/>
