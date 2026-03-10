@@ -29,9 +29,9 @@ J'aime combiner mathématiques, modélisation stochastique et programmation pour
 
 ## 🎓 Formation
 
-| Diplôme | École | Spécialité |
-|--------|-------|------------|
-| Diplôme d'Ingénieur | EPF École d'Ingénieurs | Informatique & Machine Learning |
+| École | Spécialité |
+|-------|------------|
+| Université Paris Dauphine PSL | Master 272 Finance Quantitative |
 
 ---
 
@@ -40,8 +40,10 @@ J'aime combiner mathématiques, modélisation stochastique et programmation pour
 **Langages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-4479A1?style=flat&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 
 **Domaines**
 - 📊 Pricing de dérivés (arbres trinomiaux, Monte Carlo)
