@@ -28,7 +28,7 @@ Je suis passionné par la **recherche quantitative**, le **machine learning** et
 - 📦 **Librairies :** `pandas` · `numpy` · `scipy` · `scikit-learn` · `statsmodels` · `blpapi`
 - 🚀 **Focus actuel :** pricing de dérivés, backtesting & économétrie
 - 💼 **Opportunités :** Trading Systématique · Recherche Quantitative · Quantitative Finance
-- 🌍 **Open to relocation :** 🇫🇷 France · 🇬🇧 UK · 🇳🇱 Pays-Bas · 🇨🇭 Suisse · 🇦🇪 Émirats Arabes Unis
+- 🌍 **Open to relocation :** France (Paris) · UK (London) · Netherlands (The Hague / Amsterdam) · Switzerland (Zurich / Geneva) · UAE (Dubai / Abou Dhabi)
 
 <br clear="right"/>
 
