@@ -21,7 +21,7 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Je suis passionné par la **finance quantitative**, le **machine learning** et le **trading systématique / algorithmique**.  
+Je suis passionné par la **recherche quantitative**, le **machine learning** et le **trading systématique / algorithmique**.  
 J'aime combiner mathématiques, modélisation stochastique et programmation pour concevoir des **stratégies quantitatives robustes**.
 
 <br/>
