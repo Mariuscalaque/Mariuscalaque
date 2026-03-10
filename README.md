@@ -95,7 +95,7 @@ J'aime combiner mathématiques, modélisation stochastique et programmation pour
 
 | Domaine | Technologies |
 |---------|-------------|
-| 📊 Pricing de dérivés | Arbres trinomiaux · Monte Carlo · Black-Scholes · Heston |
+| 📊 Pricing de dérivés | Arbres trinomiaux · Monte / Semi Monte Carlo · Black-Scholes · Heston |
 | 📈 Backtesting systématique | Long/Short · Mean-Reversion · Pair Trading |
 | 🧮 Économétrie & séries temporelles | ARIMA · GARCH · VAR · VECM · Fama-MacBeth |
 | 🤖 Machine Learning & Deep Learning | LSTM · Random Survival Forest · Gradient Boosting · Stacking |
