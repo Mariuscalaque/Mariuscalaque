@@ -116,7 +116,6 @@ Je suis passionné par la **recherche quantitative**, le **machine learning** et
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bloomberg%20API-FF7700?style=flat&logo=bloomberg&logoColor=white"/>
       </p>
       <p>Pipeline de backtesting Long/Short sur l'univers S&P 500 (773 tickers). Génération de signaux alpha, portefeuille market-neutral, suppression du biais de survie via masque PIT.</p>
     </td>
@@ -129,7 +128,6 @@ Je suis passionné par la **recherche quantitative**, le **machine learning** et
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kalman%20Filter-16213e?style=flat"/>
       </p>
       <p>Modélisation des spreads par filtre de Kalman et de Kim. Détection de signaux mean-reversion et calibrage dynamique des seuils d'entrée/sortie (Zhang, 2021).</p>
     </td>
@@ -144,7 +142,6 @@ Je suis passionné par la **recherche quantitative**, le **machine learning** et
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Trinomial%20Tree-239120?style=flat"/>
       </p>
       <p>Moteur de pricing par arbre trinomial pour options européennes et américaines. Calcul des Greeks et validation par convergence vers Black-Scholes.</p>
     </td>
@@ -172,7 +169,6 @@ Je suis passionné par la **recherche quantitative**, le **machine learning** et
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Économétrie-e94560?style=flat"/>
       </p>
       <p>Reproduction de Bali et al. (2017) : bêta d'incertitude, portefeuilles par déciles, CAPM / q-factors HXZ / 5 facteurs JLN, Fama-MacBeth avec correction Newey-West.</p>
     </td>
@@ -185,7 +181,6 @@ Je suis passionné par la **recherche quantitative**, le **machine learning** et
       </p>
       <p>
         <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Séries%20Temporelles-0076A8?style=flat"/>
       </p>
       <p>Étude économétrique (1990–2024) : ADF/KPSS, AR, GARCH, VAR, Granger, VECM et cointégration de Johansen.</p>
     </td>
@@ -201,7 +196,6 @@ Je suis passionné par la **recherche quantitative**, le **machine learning** et
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Analyse%20de%20Survie-e94560?style=flat"/>
       </p>
       <p>Prédiction de survie en leucémie : stacking de modèles (Cox PH, Random Survival Forest, Gradient Boosting), optimisation bayésienne, évaluation par score de Brier intégré.</p>
     </td>
