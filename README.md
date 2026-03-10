@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour, je suis Marius Calaque 👋</h1>
 <p align="center">
   <b>Étudiant en M2 Ingénierie Économique et Financière à l'Université Paris Dauphine - PSL</b><br/>
-  <i>Alternant Analyste Quantitatif @ AXA · Candidat MS Data Science ENSAE</i>
+  <i>Alternant Analyste Quantitatif @ AXA</i>
 </p>
 
 <p align="center">
@@ -36,30 +36,6 @@ J'aime combiner mathématiques, modélisation stochastique et programmation pour
 | École | Diplôme | Période |
 |-------|---------|---------|
 | Université Paris Dauphine – PSL | Master Ingénierie Économique et Financière (272) – Parcours Quantitatif | 2024–2026 |
-| Université Paris Dauphine – PSL | Licence Économie et Ingénierie Financière | 2021–2024 |
-| Lycée Philippine-Duchesne, Grenoble | Baccalauréat SES & HGGSP – Mention Très Bien | 2018–2021 |
-
-> **M2 tronc commun :** Machine Learning · Calcul stochastique · Économétrie non linéaire / bayésienne · Gestion Quantitative  
-> **M2 électifs S2 :** Deep Learning · NLP · Trading de volatilité · Produits structurés · C++
-
----
-
-## 💼 Expérience Professionnelle
-
-### 🏢 Alternance – Analyste Quantitatif | AXA *(2024–2026)*
-- Implémentation en Python d'un modèle d'allocation **Black-Litterman** : estimation de la matrice de covariance, intégration de vues macroéconomiques et optimisation sous contraintes (`numpy`, `scipy`, `pandas`).
-- Construction d'un pipeline automatisé d'extraction, de traitement et de visualisation de données sur plus de **800 fonds** (`blpapi`) pour le reporting de performance et la gestion des risques.
-- Refonte de la base de données portefeuilles clients (**SQL**) : nettoyage, consolidation et création de tableaux de bord pour le suivi des allocations dans le cadre de la **Loi Industrie Verte**.
-
-### 🏢 Stage – Conseiller en gestion de patrimoine | Visiance *(Mai–Juil. 2023)*
-- Restructuration de la base de données clients : retraitement et mise en conformité des dossiers KYC selon les exigences de l'AMF.
-- Analyse de fonds, ETF et produits structurés sur critères de risque/rendement ; élaboration de propositions d'investissement adaptées aux profils clients.
-
-### 🏢 Vice-Président & Consultant | Dauphine Junior Consulting *(2021–2024)*
-- Pilotage du déploiement du CRM **Salesforce** : migration de données, paramétrage des processus métier et automatisation de la production commerciale.
-- Mise en place d'un **Système de Management Qualité (ISO 9001)** : conception de tableaux de bord et suivi quantitatif de la performance opérationnelle.
-
----
 
 ## 🛠️ Compétences & Outils
 
@@ -139,9 +115,9 @@ Prédiction de survie en leucémie sur données cliniques et génomiques : stack
 - 📖 Finance quantitative & recherche appliquée
 - ⛷️ Ski (18 ans de pratique)
 - 🏀 Basketball (Compétition Régionale)
-- 🏊 Nage en eau libre (2.4 km d'Annecy : 53'53)
-- 🏃 Course à pied (Semi-Marathon de Nice : 1h57)
-- 🏎️ Formule 1
+- 🏊 Nage en eau libre
+- 🏃 Course à pied
+-  Cyclisme
 
 ---
 
