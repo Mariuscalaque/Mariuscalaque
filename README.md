@@ -16,11 +16,6 @@
   </a>
   <img src="https://img.shields.io/badge/🚀%20Open%20to-Stage%20%2F%20Opportunités-brightgreen?style=for-the-badge"/>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mariuscalaque&label=Visiteurs&color=e94560&style=for-the-badge" alt="Visiteurs"/>
-</p>
-
 ---
 
 ## 🧠 À propos de moi
