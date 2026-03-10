@@ -142,6 +142,7 @@ Je suis passionné par la **recherche quantitative**, le **machine learning** et
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/VBA%2FExcel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
       </p>
       <p>Moteur de pricing par arbre trinomial pour options européennes et américaines. Calcul des Greeks et validation par convergence vers Black-Scholes.</p>
     </td>
