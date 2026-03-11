@@ -201,10 +201,11 @@ I am passionate about **quantitative research**, **machine learning** and **syst
       <p>Leukemia survival prediction: model stacking (Cox PH, Random Survival Forest, Gradient Boosting), Bayesian optimization, evaluation via integrated Brier score.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛰️ Core-Satellite Quant Strategy <img src="https://img.shields.io/badge/WIP-🚧%20In%20Progress-orange?style=flat-square"/></h3>
+      <h3 align="center">🛰️ Core-Satellite Quant Strategy
       <p align="center">
         <a href="https://github.com/Mariuscalaque/Core_Satellite_Quant">
           <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/WIP-🚧%20In%20Progress-orange?style=flat-square"/></h3>
         </a>
       </p>
       <p>
