@@ -169,7 +169,7 @@ I am passionate about **quantitative research**, **machine learning** and **syst
         </a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
       </p>
       <p>Replication of Bali et al. (2017): uncertainty beta, decile portfolios, CAPM / HXZ q-factors / JLN 5 factors, Fama-MacBeth with Newey-West correction.</p>
     </td>
@@ -187,7 +187,7 @@ I am passionate about **quantitative research**, **machine learning** and **syst
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td width="50%" valign="top">
       <h3 align="center">🧬 QRT Data Challenge 2025</h3>
       <p align="center">
         <a href="https://github.com/Mariuscalaque/Challenge-Data-QRT-2025">
@@ -199,6 +199,18 @@ I am passionate about **quantitative research**, **machine learning** and **syst
         <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
       </p>
       <p>Leukemia survival prediction: model stacking (Cox PH, Random Survival Forest, Gradient Boosting), Bayesian optimization, evaluation via integrated Brier score.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛰️ Core-Satellite Quant Strategy <img src="https://img.shields.io/badge/WIP-🚧%20In%20Progress-orange?style=flat-square"/></h3>
+      <p align="center">
+        <a href="https://github.com/Mariuscalaque/Core_Satellite_Quant">
+          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      </p>
+      <p>Quantitative core-satellite portfolio strategy. Systematic allocation between a passive core and active satellite positions. Work in progress.</p>
     </td>
   </tr>
 </table>
