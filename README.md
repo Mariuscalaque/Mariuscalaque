@@ -204,8 +204,10 @@ I am passionate about **quantitative research**, **machine learning** and **syst
       <h3 align="center">🛰️ Core-Satellite Quant Strategy
       <p align="center">
         <a href="https://github.com/Mariuscalaque/Core_Satellite_Quant">
-          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
-          <img src="https://img.shields.io/badge/WIP-🚧%20In%20Progress-orange?style=flat-square"/></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WIP-🚧%20In%20Progress-orange?style=flat-square"/>
+      </p>
         </a>
       </p>
       <p>
