@@ -27,7 +27,7 @@ I am passionate about **quantitative research**, **machine learning** and **syst
 - 📚 **Languages:** `Python` · `C#` · `C++` · `R` · `SQL` · `Matlab`
 - 📦 **Libraries:** `pandas` · `numpy` · `scipy` · `scikit-learn` · `statsmodels` · `blpapi`
 - 🚀 **Current focus:** derivatives pricing, backtesting & econometrics
-- 💼 **Opportunities:** Systematic Trading · Quantitative Research · Quantitative Finance
+- 💼 **Opportunities:** Systematic Trading · Quantitative Research
 - 🌍 **Open to relocation:** France (Paris) · UK (London) · Netherlands (The Hague / Amsterdam) · Switzerland (Zurich / Geneva) · UAE (Dubai / Abu Dhabi)
 
 <br clear="right"/>
