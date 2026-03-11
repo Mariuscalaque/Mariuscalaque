@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="tel:+33768973734">
-    <img src="https://img.shields.io/badge/Phone-%2B33%207%2068%2097%2037%2034-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Phone-%2B33%207%2068%2097%203734-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/🚀%20Open%20to-Internship%20%2F%20Opportunities-brightgreen?style=for-the-badge"/>
 </p>
@@ -201,17 +201,15 @@ I am passionate about **quantitative research**, **machine learning** and **syst
       <p>Leukemia survival prediction: model stacking (Cox PH, Random Survival Forest, Gradient Boosting), Bayesian optimization, evaluation via integrated Brier score.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛰️ Core-Satellite Quant Strategy
+      <h3 align="center">🛰️ Core-Satellite Quant Strategy</h3>
       <p align="center">
         <a href="https://github.com/Mariuscalaque/Core_Satellite_Quant">
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WIP-🚧%20In%20Progress-orange?style=flat-square"/>
-      </p>
+          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WIP-🚧%20In%20Progress-orange?style=flat-square"/>
       </p>
       <p>Quantitative core-satellite portfolio strategy. Systematic allocation between a passive core and active satellite positions. Work in progress.</p>
     </td>
