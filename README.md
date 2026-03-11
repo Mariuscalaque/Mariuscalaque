@@ -218,51 +218,14 @@ I am passionate about **quantitative research**, **machine learning** and **syst
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<!-- Row 1 : Stats générales + Langages -->
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Mariuscalaque&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1b2e&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage,issues" height="220"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariuscalaque&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1b2e&title_color=58a6ff&text_color=e6edf3&langs_count=10&size_weight=0.5&count_weight=0.5" height="220"/>
-    </td>
-  </tr>
-</table>
-
-<!-- Row 2 : Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.demolab.com/?user=Mariuscalaque&theme=tokyonight&hide_border=true&background=0d1b2e&ring=58a6ff&fire=79c0ff&currStreakLabel=58a6ff&sideLabels=e6edf3&dates=8b949e&stroke=1f6feb&mode=weekly" width="70%"/>
 </p>
 
-<!-- Row 3 : Repos épinglés -->
-<p align="center">
-  <a href="https://github.com/Mariuscalaque/Bloomberg-API-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mariuscalaque&repo=Bloomberg-API-Project&theme=tokyonight&hide_border=true&bg_color=0d1b2e&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&show_owner=false" />
-  </a>
-  <a href="https://github.com/Mariuscalaque/Quantfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mariuscalaque&repo=Quantfolio&theme=tokyonight&hide_border=true&bg_color=0d1b2e&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&show_owner=false" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Mariuscalaque/Core_Satellite_Quant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mariuscalaque&repo=Core_Satellite_Quant&theme=tokyonight&hide_border=true&bg_color=0d1b2e&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&show_owner=false" />
-  </a>
-  <a href="https://github.com/Mariuscalaque/Economic-Uncertainty-Priced-in-Stock-Returns">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mariuscalaque&repo=Economic-Uncertainty-Priced-in-Stock-Returns&theme=tokyonight&hide_border=true&bg_color=0d1b2e&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&show_owner=false" />
-  </a>
-</p>
-
-<!-- Row 4 : Graphe d'activité -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariuscalaque&theme=tokyo-night&hide_border=true&bg_color=0d1b2e&color=58a6ff&line=1f6feb&point=e6edf3&area=true&area_color=1f6feb" width="95%"/>
-</p>
-
-<!-- Row 5 : Trophées — orientés repos & commits -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mariuscalaque&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&title=Commit,Repositories,Stars,Followers,PullRequest,Issues,Reviews" width="95%"/>
 </p>
 
 ---
