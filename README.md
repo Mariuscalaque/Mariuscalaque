@@ -195,8 +195,8 @@ I am passionate about **quantitative research**, **machine learning** and **syst
         </a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
       </p>
       <p>Leukemia survival prediction: model stacking (Cox PH, Random Survival Forest, Gradient Boosting), Bayesian optimization, evaluation via integrated Brier score.</p>
     </td>
@@ -208,16 +208,16 @@ I am passionate about **quantitative research**, **machine learning** and **syst
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mariuscalaque&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariuscalaque&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mariuscalaque&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1b2e&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariuscalaque&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1b2e&title_color=58a6ff&text_color=e6edf3" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariuscalaque&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariuscalaque&theme=tokyonight&hide_border=true&background=0d1b2e&ring=58a6ff&fire=79c0ff&currStreakLabel=58a6ff&sideLabels=e6edf3&dates=8b949e&stroke=1f6feb"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariuscalaque&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=e94560&line=e94560&point=ffffff" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariuscalaque&theme=tokyo-night&hide_border=true&bg_color=0d1b2e&color=58a6ff&line=1f6feb&point=e6edf3" width="95%"/>
 </p>
 
 ---
@@ -235,7 +235,7 @@ I am passionate about **quantitative research**, **machine learning** and **syst
 
 <!-- Footer wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2e,50:1f6feb,100:58a6ff&height=100&section=footer"/>
 </p>
 
 <p align="center">
