@@ -220,18 +220,6 @@ I am passionate about **quantitative research**, **machine learning** and **syst
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Mariuscalaque&theme=tokyonight&hide_border=true&background=0d1b2e&ring=58a6ff&fire=79c0ff&currStreakLabel=58a6ff&sideLabels=e6edf3&dates=8b949e&stroke=1f6feb&mode=weekly" width="70%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariuscalaque&theme=tokyo-night&hide_border=true&bg_color=0d1b2e&color=58a6ff&line=1f6feb&point=e6edf3&area=true&area_color=1f6feb" width="95%"/>
-</p>
-
----
-
 ## 🌍 Interests
 
 - 📖 Quantitative finance & applied research
