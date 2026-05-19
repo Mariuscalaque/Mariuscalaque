@@ -188,9 +188,9 @@ I am passionate about **quantitative research**, **machine learning** and **syst
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧬 QRT Data Challenge 2025</h3>
+      <h3 align="center">🧬 QRT Data Challenge 2025 : Leukemia Survival Prediction</h3>
       <p align="center">
-        <a href="https://github.com/Mariuscalaque/Challenge-Data-QRT-2025">
+        <a href="https://github.com/Mariuscalaque/qrt-leukemia-survival-prediction">
           <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
