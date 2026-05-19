@@ -210,7 +210,6 @@ I am passionate about **quantitative research**, **machine learning** and **syst
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WIP-orange?style=for-the-badge"/>
       </p>
       <p>Quantitative core-satellite portfolio strategy. Systematic allocation between a passive core and active satellite positions. Work in progress.</p>
     </td>
