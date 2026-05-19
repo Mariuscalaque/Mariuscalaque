@@ -26,7 +26,7 @@ I am passionate about **quantitative research**, **machine learning** and **syst
 
 - 📚 **Languages:** `Python` · `C#` · `C++` · `R` · `SQL` · `Matlab`
 - 📦 **Libraries:** `pandas` · `numpy` · `scipy` · `scikit-learn` · `statsmodels` · `blpapi`
-- 🚀 **Current focus:** Research article reproduction (Times Series Momentum)
+- 🚀 **Current focus:** Volatility Trading Research, Portfolio Strategies, ML · Article Reproduction (Time Series Momentum)
 - 💼 **Seeking for opportunities in:** Systematic Trading · Quantitative Research
 - 🌍 **Open to relocation:** France (Paris) · UK (London) · Netherlands (The Hague / Amsterdam) · Switzerland (Zurich / Geneva) · UAE (Dubai / Abu Dhabi)
 
@@ -94,10 +94,11 @@ I am passionate about **quantitative research**, **machine learning** and **syst
 | Area | Technologies |
 |------|-------------|
 | 📊 Derivatives Pricing | Trinomial Trees · Monte / Semi Monte Carlo · Black-Scholes · Heston |
-| 📈 Systematic Backtesting | Long/Short · Mean-Reversion · Pair Trading |
+| 📈 Systematic Backtesting | Long/Short · Mean-Reversion · Pair Trading · Time Series Momentum |
 | 🧮 Econometrics & Time Series | ARIMA · GARCH · VAR · VECM · Fama-MacBeth |
 | 🤖 Machine Learning & Deep Learning | LSTM · Random Survival Forest · Gradient Boosting · Stacking |
 | 📡 Financial Data | Bloomberg API · High-Frequency Data |
+| 🌊 Volatility Trading | Dispersion Strategies · Variance Swaps · Correlation Risk Premium |
 
 </details>
 
@@ -122,7 +123,7 @@ I am passionate about **quantitative research**, **machine learning** and **syst
     <td width="50%" valign="top">
       <h3 align="center">📐 Pair Trading — State-Space Models</h3>
       <p align="center">
-        <a href="https://github.com/Mariuscalaque/Mariuscalaque">
+        <a href="https://github.com/Mariuscalaque/Pair-Trading-with-SSM">
           <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
@@ -176,7 +177,7 @@ I am passionate about **quantitative research**, **machine learning** and **syst
     <td width="50%" valign="top">
       <h3 align="center">📊 Gold & US 10Y Rates — Econometrics</h3>
       <p align="center">
-        <a href="https://github.com/Mariuscalaque/Projet-Econometrie">
+        <a href="https://github.com/Mariuscalaque/Relation-Or-Taux-US-10Y-">
           <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
@@ -209,9 +210,36 @@ I am passionate about **quantitative research**, **machine learning** and **syst
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <br/>
+        <img src="https://img.shields.io/badge/WIP-orange?style=for-the-badge"/>
       </p>
       <p>Quantitative core-satellite portfolio strategy. Systematic allocation between a passive core and active satellite positions. Work in progress.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⏱️ Time Series Momentum — Moskowitz, Ooi & Pedersen (2012)</h3>
+      <p align="center">
+        <a href="https://github.com/Mariuscalaque/Moskowitz-HuaOoi-Pedersen-Time-Series-Momentum-">
+          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WIP-orange?style=for-the-badge"/>
+      </p>
+      <p>Reproduction of Moskowitz, Ooi & Pedersen (2012). Cross-asset trend-following strategy: signal construction, portfolio aggregation and performance analysis across futures markets.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌊 Volatility Trading — Dispersion Strategies</h3>
+      <p align="center">
+        <a href="https://github.com/Mariuscalaque/Volatility-Trading-Project--Dispersion-Strategies">
+          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      </p>
+      <p>Volatility trading project for M272 at Paris Dauphine (PSL). Dispersion trading: selling index variance vs. buying single-stock variance. Variance swaps, correlation risk premium analysis.</p>
     </td>
   </tr>
 </table>
