@@ -170,7 +170,7 @@ I am passionate about **quantitative research**, **machine learning** and **syst
         </a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       </p>
       <p>Replication of Bali et al. (2017): uncertainty beta, decile portfolios, CAPM / HXZ q-factors / JLN 5 factors, Fama-MacBeth with Newey-West correction.</p>
     </td>
