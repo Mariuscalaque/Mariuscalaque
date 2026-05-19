@@ -196,7 +196,7 @@ I am passionate about **quantitative research**, **machine learning** and **syst
         </a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
       </p>
       <p>Leukemia survival prediction: model stacking (Cox PH, Random Survival Forest, Gradient Boosting), Bayesian optimization, evaluation via integrated Brier score.</p>
@@ -209,7 +209,7 @@ I am passionate about **quantitative research**, **machine learning** and **syst
         </a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       </p>
       <p>Quantitative core-satellite portfolio strategy. Systematic allocation between a passive core and active satellite positions. Work in progress.</p>
     </td>
