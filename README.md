@@ -26,7 +26,7 @@ I am passionate about **quantitative research**, **machine learning** and **syst
 
 - 📚 **Languages:** `Python` · `C#` · `C++` · `R` · `SQL` · `Matlab`
 - 📦 **Libraries:** `pandas` · `numpy` · `scipy` · `scikit-learn` · `statsmodels` · `blpapi`
-- 🚀 **Current focus:** Volatility Trading Research, Portfolio Strategies, ML · Article Reproduction (Time Series Momentum)
+- 🚀 **Current focus:** Article Reproduction (Time Series Momentum)
 - 💼 **Seeking for opportunities in:** Systematic Trading · Quantitative Research
 - 🌍 **Open to relocation:** France (Paris) · UK (London) · Netherlands (The Hague / Amsterdam) · Switzerland (Zurich / Geneva) · UAE (Dubai / Abu Dhabi)
 
@@ -239,7 +239,7 @@ I am passionate about **quantitative research**, **machine learning** and **syst
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       </p>
-      <p>Volatility trading project for M272 at Paris Dauphine (PSL). Dispersion trading: selling index variance vs. buying single-stock variance. Variance swaps, correlation risk premium analysis.</p>
+      <p>Dispersion trading: selling index variance vs. buying single-stock variance. Variance swaps, correlation risk premium analysis.</p>
     </td>
   </tr>
 </table>
