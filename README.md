@@ -265,7 +265,7 @@ I am passionate about **quantitative investment strategies (QIS)**, **systematic
 
 ## 🌍 Interests
 
-- ⛷️ Skiing (18 years of practice)
+- ⛷️ Skiing (20 years of practice)
 - 🏊 Open water swimming
 - 🏃 Running / Trail
 - 🚴 Cycling
