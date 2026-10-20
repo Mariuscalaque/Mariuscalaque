@@ -166,7 +166,7 @@ I am passionate about **quantitative investment strategies (QIS)**, **systematic
       <p>Quantitative core-satellite portfolio strategy. Systematic allocation between a passive core and active satellite positions. Work in progress.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📐 Pairs Trading with General State-Space Models</h3>
+      <h3 align="center">📐 Pairs Trading with General State-Space Models — Zhang (2021)</h3>
       <p align="center">
         <a href="https://github.com/Mariuscalaque/Pair-Trading-with-SSM">
           <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
