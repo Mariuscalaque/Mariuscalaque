@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Marius Calaque 👋</h1>
 <p align="center">
-  <b>MS Data Science Student at ENSAE Paris - Institut Polytechnique de Paris</b><br/>
+  <b>Mastère Spécialisé® Data Science Student at ENSAE Paris - Institut Polytechnique de Paris</b><br/>
   <i>Former Quantitative Analyst Apprentice @ AXA
 </p>
 
@@ -24,9 +24,9 @@
 I am passionate about **quantitative investment strategies (QIS)**, **systematic / quantitative portfolio management**, **statistical learning** and **applied financial research**.  
 <br/>
 
-- 📚 **Languages:** `Python` · `R` · `SQL` · `Matlab`
+- 📚 **Languages:** `Python` · `C#` · `C++` · `R` · `SQL` · `Matlab`
 - 📦 **Libraries:** `pandas` · `numpy` · `scipy` · `scikit-learn` · `statsmodels` · `blpapi`
-- 🚀 **Current focus:** Hidden Markov Models / Sequential Monte Carlo & Bayesian statistics applied to systematic investing
+- 🚀 **Current focus:** Copulas, Hidden Markov Models / Sequential Monte Carlo, Bayesian statistics applied to systematic investing
 - 💼 **Seeking an end-of-studies internship in:** QIS Research · Quantitative Portfolio Management
 - 🌍 **Open to relocation:** France (Paris) · UK (London) · Netherlands (The Hague / Amsterdam) · Switzerland (Zurich / Geneva) · UAE (Dubai / Abu Dhabi)
 
@@ -40,45 +40,39 @@ I am passionate about **quantitative investment strategies (QIS)**, **systematic
   <thead>
     <tr>
       <th>🏛️ School</th>
-      <th>📜 Degree</th>
+      <th>📜 Program</th>
       <th>📅 Period</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <a href="https://www.ensae.fr/"><img src="https://img.shields.io/badge/ENSAE-Paris%20(IP%20Paris)-003399?style=for-the-badge&logo=graduation-cap&logoColor=white" /></a>
+        <a href="https://www.ensae.fr/">
+          <img src="https://img.shields.io/badge/ENSAE-Paris%20(IP%20Paris)-003399?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+        </a>
       </td>
-      <td><b>MS Data Science</b></td>
       <td>
-        <img src="https://img.shields.io/badge/2026-2027-blue?style=flat-square"/>
+        <a href="https://www.ensae.fr/formation/mast%C3%A8re-sp%C3%A9cialis%C3%A9-data-science">
+          Mastère Spécialisé® Data Science
+        </a>
       </td>
+      <td><img src="https://img.shields.io/badge/2026--2027-blue?style=flat-square"/></td>
     </tr>
     <tr>
       <td>
-        <a href="https://dauphine.psl.eu/"><img src="https://img.shields.io/badge/Paris%20Dauphine-PSL-555555?style=for-the-badge&logo=graduation-cap&logoColor=white" /></a>
+        <a href="https://dauphine.psl.eu/">
+          <img src="https://img.shields.io/badge/Paris%20Dauphine-PSL-003399?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+        </a>
       </td>
-      <td><a href="https://dauphine.psl.eu/formations/masters/economie-finance/m2-ingenierie-economique-et-financiere">Master in Economic and Financial Engineering (272) — Quantitative Track</a></td>
       <td>
-        <img src="https://img.shields.io/badge/2024-2026-lightgrey?style=flat-square"/>
+        <a href="https://dauphine.psl.eu/formations/masters/economie-finance/m2-ingenierie-economique-et-financiere">
+          M2 Ingénierie Économique et Financière (272) — Quantitative Track
+        </a>
       </td>
+      <td><img src="https://img.shields.io/badge/2024--2026-blue?style=flat-square"/></td>
     </tr>
   </tbody>
 </table>
-
-### 📘 ENSAE — Coursework
-
-**Core courses**
-- Mathematical Statistics
-- Microeconometrics
-- Time Series
-- Applied Statistical Learning
-- Data Base
-
-**Electives**
-- Copulas & Financial Applications — Jean-David Fermanian
-- Hidden Markov Models & Sequential Monte-Carlo — Nicolas Chopin
-- Bayesian Statistics — Anna Simoni
 
 ---
 
@@ -172,7 +166,7 @@ I am passionate about **quantitative investment strategies (QIS)**, **systematic
       <p>Quantitative core-satellite portfolio strategy. Systematic allocation between a passive core and active satellite positions. Work in progress.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📐 Pair Trading — State-Space Models</h3>
+      <h3 align="center">📐 Pairs Trading with General State-Space Models</h3>
       <p align="center">
         <a href="https://github.com/Mariuscalaque/Pair-Trading-with-SSM">
           <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
@@ -181,7 +175,7 @@ I am passionate about **quantitative investment strategies (QIS)**, **systematic
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       </p>
-      <p>Spread modelling using Kalman and Kim filters. Mean-reversion signal detection and dynamic calibration of entry/exit thresholds (Zhang, 2021).</p>
+      <p>Replication of <i>Pairs Trading with General State-Space Models</i> — Guang Zhang (2021): spread modelling with Kalman and Kim filters, mean-reversion signal detection, and dynamic calibration of entry/exit thresholds.</p>
     </td>
   </tr>
   <tr>
