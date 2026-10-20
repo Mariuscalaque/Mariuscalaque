@@ -112,8 +112,8 @@ I am passionate about **quantitative investment strategies (QIS)**, **systematic
 |------|-------------|
 | 🧭 QIS & Systematic Investing | Time Series Momentum · Long/Short · Mean-Reversion · Pair Trading · Core-Satellite |
 | 📈 Systematic Backtesting | Alpha Signals · Market-Neutral Portfolios · PIT Universe / Survivorship Bias Removal |
-| 🧮 Econometrics & Time Series | ARIMA · GARCH · VAR · VECM · Fama-MacBeth · Microeconometrics |
-| 🎲 Statistical Modelling | Copulas · Hidden Markov Models · Sequential Monte Carlo · Bayesian Statistics · Kalman / Kim Filters |
+| 🧮 Econometrics & Time Series | ARIMA · GARCH · VAR · VECM · Fama-MacBeth |
+| 🎲 Statistical Modeling | Copulas · Hidden Markov Models · Sequential Monte Carlo · Bayesian Statistics |
 | 🤖 Machine Learning & Deep Learning | LSTM · Random Survival Forest · Gradient Boosting · Stacking |
 | 📊 Derivatives Pricing | Trinomial Trees · Monte / Semi Monte Carlo · Black-Scholes · Heston |
 | 🌊 Volatility Trading | Dispersion Strategies · Variance Swaps · Correlation Risk Premium |
