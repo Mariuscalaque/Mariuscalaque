@@ -52,7 +52,7 @@ I am passionate about **quantitative investment strategies (QIS)**, **systematic
         </a>
       </td>
       <td>
-        <a href="https://www.ensae.fr/formation/mast%C3%A8re-sp%C3%A9cialis%C3%A9-data-science">
+        <a href="https://www.ensae.fr/formation/masteres-specialises/ms-data-science">
           Mastère Spécialisé® Data Science
         </a>
       </td>
