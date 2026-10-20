@@ -26,7 +26,7 @@ I am passionate about **quantitative investment strategies (QIS)**, **systematic
 
 - 📚 **Languages:** `Python` · `C#` · `C++` · `R` · `SQL` · `Matlab`
 - 📦 **Libraries:** `pandas` · `numpy` · `scipy` · `scikit-learn` · `statsmodels` · `blpapi`
-- 🚀 **Current focus:** Copulas, Hidden Markov Models / Sequential Monte Carlo, Bayesian statistics applied to systematic investing
+- 🚀 **Current focus:** Copulas, Hidden Markov Models / Sequential Monte Carlo & Bayesian statistics applied to systematic investing
 - 💼 **Seeking an end-of-studies internship in:** QIS Research · Quantitative Portfolio Management
 - 🌍 **Open to relocation:** France (Paris) · UK (London) · Netherlands (The Hague / Amsterdam) · Switzerland (Zurich / Geneva) · UAE (Dubai / Abu Dhabi)
 
