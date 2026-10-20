@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Marius Calaque 👋</h1>
 <p align="center">
   <b>MS Data Science Student at ENSAE Paris - Institut Polytechnique de Paris</b><br/>
-  <i>Former Quantitative Analyst Apprentice @ AXA · M2 Economic & Financial Engineering, Paris Dauphine - PSL</i>
+  <i>Former Quantitative Analyst Apprentice @ AXA · Advanced Master's Degree @ ENSAE Paris - Institut Polytechnique</i>
 </p>
 
 <p align="center">
