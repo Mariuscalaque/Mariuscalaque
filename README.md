@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/marius-calaque-b53942267/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:marius.calaque@dauphine.eu">
+  <a href="mailto:marius.calaque@ensae.fr">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="tel:+33768973734">
