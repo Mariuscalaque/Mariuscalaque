@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Marius Calaque 👋</h1>
 <p align="center">
-  <b>M2 Student in Economic and Financial Engineering at Paris Dauphine University - PSL</b><br/>
-  <i>Quantitative Analyst Apprentice @ AXA</i>
+  <b>MS Data Science Student at ENSAE Paris - Institut Polytechnique de Paris</b><br/>
+  <i>Former Quantitative Analyst Apprentice @ AXA · M2 Economic & Financial Engineering, Paris Dauphine - PSL</i>
 </p>
 
 <p align="center">
@@ -14,27 +14,27 @@
   <a href="tel:+33768973734">
     <img src="https://img.shields.io/badge/Phone-%2B33%207%2068%2097%203734-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/🚀%20Open%20to-Internship%20%2F%20Opportunities-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🚀%20Seeking-End%20of%20Studies%20Internship%20(QIS%20%2F%20Quant%20Mgmt)-brightgreen?style=for-the-badge"/>
 </p>
 
 ## 🧠 About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I am passionate about **quantitative research**, **machine learning** and **systematic / algorithmic trading**.  
+I am passionate about **quantitative investment strategies (QIS)**, **systematic / quantitative portfolio management**, **statistical learning** and **applied financial research**.  
 <br/>
 
 - 📚 **Languages:** `Python` · `C#` · `C++` · `R` · `SQL` · `Matlab`
 - 📦 **Libraries:** `pandas` · `numpy` · `scipy` · `scikit-learn` · `statsmodels` · `blpapi`
-- 🚀 **Current focus:** Article Reproduction (Time Series Momentum)
-- 💼 **Seeking for opportunities in:** Systematic Trading · Quantitative Research
+- 🚀 **Current focus:** Copulas, Hidden Markov Models / Sequential Monte Carlo, Bayesian statistics applied to systematic investing
+- 💼 **Seeking an end-of-studies internship in:** QIS Research · Quantitative Portfolio Management
 - 🌍 **Open to relocation:** France (Paris) · UK (London) · Netherlands (The Hague / Amsterdam) · Switzerland (Zurich / Geneva) · UAE (Dubai / Abu Dhabi)
 
 <br clear="right"/>
 
 ---
 
-## 🎓 Current Education
+## 🎓 Education
 
 <table align="center">
   <thead>
@@ -47,15 +47,38 @@ I am passionate about **quantitative research**, **machine learning** and **syst
   <tbody>
     <tr>
       <td>
-        <a href="https://dauphine.psl.eu/"><img src="https://img.shields.io/badge/Paris%20Dauphine-PSL-003399?style=for-the-badge&logo=graduation-cap&logoColor=white" /></a>
+        <a href="https://www.ensae.fr/"><img src="https://img.shields.io/badge/ENSAE-Paris%20(IP%20Paris)-003399?style=for-the-badge&logo=graduation-cap&logoColor=white" /></a>
+      </td>
+      <td><b>MS Data Science</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/2026-2027-blue?style=flat-square"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://dauphine.psl.eu/"><img src="https://img.shields.io/badge/Paris%20Dauphine-PSL-555555?style=for-the-badge&logo=graduation-cap&logoColor=white" /></a>
       </td>
       <td><a href="https://dauphine.psl.eu/formations/masters/economie-finance/m2-ingenierie-economique-et-financiere">Master in Economic and Financial Engineering (272) — Quantitative Track</a></td>
       <td>
-        <img src="https://img.shields.io/badge/2024-2026-blue?style=flat-square"/>
+        <img src="https://img.shields.io/badge/2024-2026-lightgrey?style=flat-square"/>
       </td>
     </tr>
   </tbody>
 </table>
+
+### 📘 ENSAE — Coursework
+
+**Core courses**
+- Mathematical Statistics
+- Microeconometrics
+- Time Series
+- Applied Statistical Learning
+- Data Base
+
+**Electives**
+- Copulas & Financial Applications — Jean-David Fermanian
+- Hidden Markov Models & Sequential Monte-Carlo — Nicolas Chopin
+- Bayesian Statistics — Anna Simoni
 
 ---
 
@@ -93,12 +116,14 @@ I am passionate about **quantitative research**, **machine learning** and **syst
 
 | Area | Technologies |
 |------|-------------|
-| 📊 Derivatives Pricing | Trinomial Trees · Monte / Semi Monte Carlo · Black-Scholes · Heston |
-| 📈 Systematic Backtesting | Long/Short · Mean-Reversion · Pair Trading · Time Series Momentum |
-| 🧮 Econometrics & Time Series | ARIMA · GARCH · VAR · VECM · Fama-MacBeth |
+| 🧭 QIS & Systematic Investing | Time Series Momentum · Long/Short · Mean-Reversion · Pair Trading · Core-Satellite |
+| 📈 Systematic Backtesting | Alpha Signals · Market-Neutral Portfolios · PIT Universe / Survivorship Bias Removal |
+| 🧮 Econometrics & Time Series | ARIMA · GARCH · VAR · VECM · Fama-MacBeth · Microeconometrics |
+| 🎲 Statistical Modelling | Copulas · Hidden Markov Models · Sequential Monte Carlo · Bayesian Statistics · Kalman / Kim Filters |
 | 🤖 Machine Learning & Deep Learning | LSTM · Random Survival Forest · Gradient Boosting · Stacking |
-| 📡 Financial Data | Bloomberg API · High-Frequency Data |
+| 📊 Derivatives Pricing | Trinomial Trees · Monte / Semi Monte Carlo · Black-Scholes · Heston |
 | 🌊 Volatility Trading | Dispersion Strategies · Variance Swaps · Correlation Risk Premium |
+| 📡 Financial Data | Bloomberg API · High-Frequency Data · SQL / Databases |
 
 </details>
 
@@ -108,6 +133,18 @@ I am passionate about **quantitative research**, **machine learning** and **syst
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⏱️ Time Series Momentum — Moskowitz, Ooi & Pedersen (2012)</h3>
+      <p align="center">
+        <a href="https://github.com/Mariuscalaque/Moskowitz-HuaOoi-Pedersen-Time-Series-Momentum-">
+          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      </p>
+      <p>Reproduction of Moskowitz, Ooi & Pedersen (2012). Cross-asset trend-following strategy: signal construction, portfolio aggregation and performance analysis across futures markets.</p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">📡 Bloomberg API Project</h3>
       <p align="center">
@@ -120,6 +157,20 @@ I am passionate about **quantitative research**, **machine learning** and **syst
       </p>
       <p>Long/Short backtesting pipeline on the S&P 500 universe (773 tickers). Alpha signal generation, market-neutral portfolio, survivorship bias removal via PIT mask.</p>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛰️ Core-Satellite Quant Strategy</h3>
+      <p align="center">
+        <a href="https://github.com/Mariuscalaque/Core_Satellite_Quant">
+          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      </p>
+      <p>Quantitative core-satellite portfolio strategy. Systematic allocation between a passive core and active satellite positions. Work in progress.</p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">📐 Pair Trading — State-Space Models</h3>
       <p align="center">
@@ -131,6 +182,59 @@ I am passionate about **quantitative research**, **machine learning** and **syst
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       </p>
       <p>Spread modelling using Kalman and Kim filters. Mean-reversion signal detection and dynamic calibration of entry/exit thresholds (Zhang, 2021).</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌊 Volatility Trading — Dispersion Strategies</h3>
+      <p align="center">
+        <a href="https://github.com/Mariuscalaque/Volatility-Trading-Project--Dispersion-Strategies">
+          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      </p>
+      <p>Dispersion trading: selling index variance vs. buying single-stock variance. Variance swaps, correlation risk premium analysis.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📉 Economic Uncertainty & Stock Returns</h3>
+      <p align="center">
+        <a href="https://github.com/Mariuscalaque/Economic-Uncertainty-Priced-in-Stock-Returns">
+          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      </p>
+      <p>Replication of Bali et al. (2017): uncertainty beta, decile portfolios, CAPM / HXZ q-factors / JLN 5 factors, Fama-MacBeth with Newey-West correction.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 QuantFolio</h3>
+      <p align="center">
+        <a href="https://github.com/Mariuscalaque/Quantfolio">
+          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WPF-.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+      </p>
+      <p>WPF graphical application for multi-asset portfolio management. Markowitz optimization, multi-strategy backtesting, automated reporting.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Gold & US 10Y Rates — Econometrics</h3>
+      <p align="center">
+        <a href="https://github.com/Mariuscalaque/Relation-Or-Taux-US-10Y-">
+          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
+      </p>
+      <p>Econometric study (1990–2024): ADF/KPSS, AR, GARCH, VAR, Granger, VECM and Johansen cointegration.</p>
     </td>
   </tr>
   <tr>
@@ -148,47 +252,6 @@ I am passionate about **quantitative research**, **machine learning** and **syst
       <p>Trinomial tree pricing engine for European and American options. Greeks computation and validation via convergence to Black-Scholes.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💼 QuantFolio</h3>
-      <p align="center">
-        <a href="https://github.com/Mariuscalaque/Quantfolio">
-          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WPF-.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-      </p>
-      <p>WPF graphical application for multi-asset portfolio management. Markowitz optimization, multi-strategy backtesting, automated reporting.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📉 Economic Uncertainty & Stock Returns</h3>
-      <p align="center">
-        <a href="https://github.com/Mariuscalaque/Economic-Uncertainty-Priced-in-Stock-Returns">
-          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      </p>
-      <p>Replication of Bali et al. (2017): uncertainty beta, decile portfolios, CAPM / HXZ q-factors / JLN 5 factors, Fama-MacBeth with Newey-West correction.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 Gold & US 10Y Rates — Econometrics</h3>
-      <p align="center">
-        <a href="https://github.com/Mariuscalaque/Relation-Or-Taux-US-10Y-">
-          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
-      </p>
-      <p>Econometric study (1990–2024): ADF/KPSS, AR, GARCH, VAR, Granger, VECM and Johansen cointegration.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="center">🧬 QRT Data Challenge 2025 : Leukemia Survival Prediction</h3>
       <p align="center">
         <a href="https://github.com/Mariuscalaque/qrt-leukemia-survival-prediction">
@@ -201,45 +264,6 @@ I am passionate about **quantitative research**, **machine learning** and **syst
       </p>
       <p>Leukemia survival prediction: model stacking (Cox PH, Random Survival Forest, Gradient Boosting), Bayesian optimization, evaluation via integrated Brier score.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛰️ Core-Satellite Quant Strategy</h3>
-      <p align="center">
-        <a href="https://github.com/Mariuscalaque/Core_Satellite_Quant">
-          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      </p>
-      <p>Quantitative core-satellite portfolio strategy. Systematic allocation between a passive core and active satellite positions. Work in progress.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⏱️ Time Series Momentum — Moskowitz, Ooi & Pedersen (2012)</h3>
-      <p align="center">
-        <a href="https://github.com/Mariuscalaque/Moskowitz-HuaOoi-Pedersen-Time-Series-Momentum-">
-          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WIP-orange?style=for-the-badge"/>
-      </p>
-      <p>Reproduction of Moskowitz, Ooi & Pedersen (2012). Cross-asset trend-following strategy: signal construction, portfolio aggregation and performance analysis across futures markets.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌊 Volatility Trading — Dispersion Strategies</h3>
-      <p align="center">
-        <a href="https://github.com/Mariuscalaque/Volatility-Trading-Project--Dispersion-Strategies">
-          <img src="https://img.shields.io/badge/View%20Project-0f3460?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      </p>
-      <p>Dispersion trading: selling index variance vs. buying single-stock variance. Variance swaps, correlation risk premium analysis.</p>
-    </td>
   </tr>
 </table>
 
@@ -247,11 +271,9 @@ I am passionate about **quantitative research**, **machine learning** and **syst
 
 ## 🌍 Interests
 
-- 📖 Quantitative finance & applied research
 - ⛷️ Skiing (18 years of practice)
-- 🏀 Basketball
 - 🏊 Open water swimming
-- 🏃 Running
+- 🏃 Running / Trail
 - 🚴 Cycling
 
 ---
