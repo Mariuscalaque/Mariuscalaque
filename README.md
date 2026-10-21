@@ -14,7 +14,7 @@
   <a href="tel:+33768973734">
     <img src="https://img.shields.io/badge/Phone-%2B33%207%2068%2097%203734-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/🚀%20Seeking-End%20of%20Studies%20Internship%20(QIS%20%2F%20Quant%20Mgmt)-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🚀%20Seeking-End%20of%20Studies%20Internship%20(QIS%20%2F%20Quant%20)-brightgreen?style=for-the-badge"/>
 </p>
 
 ## 🧠 About Me
