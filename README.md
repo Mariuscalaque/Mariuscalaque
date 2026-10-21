@@ -21,9 +21,6 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I am passionate about **quantitative investment strategies (QIS)**, **systematic / quantitative portfolio management**, **statistical learning** and **applied financial research**.  
-<br/>
-
 - 📚 **Languages:** `Python` · `C#` · `C++` · `R` · `SQL` · `Matlab`
 - 📦 **Libraries:** `pandas` · `numpy` · `scipy` · `scikit-learn` · `statsmodels` · `blpapi`
 - 🚀 **Current focus:** Copulas, Hidden Markov Models / Sequential Monte Carlo & Bayesian statistics applied to systematic investing
